@@ -84,9 +84,7 @@
   },
   "author": "boostflux",
   "keywords": [
-    "react",
-    "form",
-    "json-schema"
+    "react"
   ],
   "license": "Apache-2.0",
   "homepage": "https://github.com/boostflux/peppery.git"
